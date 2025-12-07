@@ -16,22 +16,22 @@ qualquer dispositivo.
 ## 📱 Funcionalidades (MVP)
 
 - [x] Criação de conta e Autenticação de usuário. <br/>
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/CriarConta.png" alt="Criar Conta" width="500"/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/CriarConta.png" alt="Criar Conta" width="600"/>
       <br/>
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/LogIn.png" alt="Log In" width="500"/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/LogIn.png" alt="Log In" width="600"/>
       <br/>
 - [x] Registro de Ingressos (Receitas) e Egressos (Despesas). <br/>
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/AdicionarRegistro.png" alt="Adicionar Registro" width="500"/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/AdicionarRegistro.png" alt="Adicionar Registro" width="400"/>
       <br/>
 - [x] Editar Registro de Ingressos (Receitas) e Egressos (Despesas). <br/>
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/EditarRegistro.png" alt="Editar Registro" width="500"/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/EditarRegistro.png" alt="Editar Registro" width="400"/>
       <br/>
 - [x] Visualização de Saldo Total. <br/>
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/SaldoTotal.png" alt="Saldo Total" width="500"/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/SaldoTotal.png" alt="Saldo Total" width="600"/>
       <br/>
 
 - [x] Perfil de Usuario (Subir foto, deslogar, etc.) <br/>
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/MeuPerfil.png" alt="Meu Perfil" width="500"/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/MeuPerfil.png" alt="Meu Perfil" width="400"/>
       <br/>
 
 ## 🗂️ Modelo de Dados
