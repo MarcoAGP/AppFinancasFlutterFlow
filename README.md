@@ -20,10 +20,11 @@ qualquer dispositivo.
       <br/>
       <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/LogIn.png" alt="Log In" width="600"/>
       <br/>
-- [x] Registro de Ingressos (Receitas) e Egressos (Despesas). <br/>
+- [x] Registro de Ingressos (Receitas) ou Egressos (Despesas). <br/>
       <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/AdicionarRegistro.png" alt="Adicionar Registro" width="400"/>
       <br/>
-- [x] Editar Registro de Ingressos (Receitas) e Egressos (Despesas). <br/>
+- [x] Editar ou Deletar Registros de Ingressos (Receitas) ou Egressos
+      (Despesas). <br/>
       <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/EditarRegistro.png" alt="Editar Registro" width="400"/>
       <br/>
 - [x] Visualização de Saldo Total. <br/>
