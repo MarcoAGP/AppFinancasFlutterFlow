@@ -16,6 +16,7 @@ qualquer dispositivo.
 ## 📱 Funcionalidades (MVP)
 
 - [x] Criação de conta e Autenticação de usuário.
+      ![Criar Conta](./assets/create_account.png)
 - [x] Registro de Ingressos (Receitas).
 - [x] Registro de Egressos (Despesas).
 - [x] Visualização de Saldo Total.
