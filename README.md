@@ -15,9 +15,11 @@ qualquer dispositivo.
 
 ## 📱 Funcionalidades (MVP)
 
-- [x] Criação de conta e Autenticação de usuário.
-      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/CriarConta.png" alt="Criar Conta" width="300"/>
-      ![Login](https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/LogIn.png)
+- [x] Criação de conta e Autenticação de usuário. <br/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/CriarConta.png" alt="Criar Conta" width="500"/>
+      <br/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/LogIn.png" alt="Log In" width="500"/>
+      <br/>
 - [x] Registro de Ingressos (Receitas) e Egressos (Despesas).
       ![Adicionar Registro](https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/AdicionarRegistro.png)
 - [x] Editar Registro de Ingressos (Receitas) e Egressos (Despesas).
