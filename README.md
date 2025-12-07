@@ -20,15 +20,19 @@ qualquer dispositivo.
       <br/>
       <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/LogIn.png" alt="Log In" width="500"/>
       <br/>
-- [x] Registro de Ingressos (Receitas) e Egressos (Despesas).
-      ![Adicionar Registro](https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/AdicionarRegistro.png)
-- [x] Editar Registro de Ingressos (Receitas) e Egressos (Despesas).
-      ![Editar Registro](https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/EditarRegistro.png)
-- [x] Visualização de Saldo Total.
-      ![Saldo Total](https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/SaldoTotal.png)
+- [x] Registro de Ingressos (Receitas) e Egressos (Despesas). <br/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/AdicionarRegistro.png" alt="Adicionar Registro" width="500"/>
+      <br/>
+- [x] Editar Registro de Ingressos (Receitas) e Egressos (Despesas). <br/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/EditarRegistro.png" alt="Editar Registro" width="500"/>
+      <br/>
+- [x] Visualização de Saldo Total. <br/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/SaldoTotal.png" alt="Saldo Total" width="500"/>
+      <br/>
 
-- [x] Perfil de Usuario (Subir foto, deslogar, etc.)
-      ![Meu Perfil](https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/MeuPerfil.png)
+- [x] Perfil de Usuario (Subir foto, deslogar, etc.) <br/>
+      <img src="https://github.com/MarcoAGP/AppFinancasFlutterFlow/blob/appfinancas/assets/MeuPerfil.png" alt="Meu Perfil" width="500"/>
+      <br/>
 
 ## 🗂️ Modelo de Dados
 
