@@ -9,16 +9,16 @@ qualquer dispositivo.
 
 ## 🚀 Tecnologias Utilizadas (Stack)
 
-- **Frontend:** FlutterFlow (Low-code platform)
-- **Backend/Database:** Supabase (PostgreSQL + Auth)
+- **Frontend:** FlutterFlow (Interface e Lógica de Cliente).
+- **Backend/Database:** Supabase (Autenticação e Banco de Dados PostgreSQL)
 - **Metodologia:** Kanban (Gerido via Notion)
 
 ## 📱 Funcionalidades (MVP)
 
 - [x] Criação de conta e Autenticação de usuário.
-- [ ] Registro de Ingressos (Receitas).
-- [ ] Registro de Egressos (Despesas).
-- [ ] Visualização de Saldo Total.
+- [x] Registro de Ingressos (Receitas).
+- [x] Registro de Egressos (Despesas).
+- [x] Visualização de Saldo Total.
 
 ## 🗂️ Modelo de Dados
 
@@ -27,10 +27,20 @@ Supabase para garantir a segurança e isolamento dos dados por usuário.
 
 ## 🛠️ Como Executar
 
-Este projeto está hospedado na web. Acesse:
+Este projeto está hospedado na web.
+
+Acesse:
 
 <https://app-financas-byte-seguro.flutterflow.app/>
 
+## **Instruções de Instalação (PWA):**
+
+> 1. Acesse o link via navegador (Chrome no Android / Safari no iOS).
+> 2. No Android: Toque em "Opções" > "Adicionar à Tela Inicial".
+> 3. No iOS: Toque em "Compartilhar" > "Adicionar à Tela de Início".
+
 ---
 
-Desenvolvido por Marco Antonio
+## 👥 Equipe
+
+- **Marco Antonio** - Ciência da Computação
